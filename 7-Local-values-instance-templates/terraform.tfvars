@@ -1,0 +1,5 @@
+gcp_project   = "terraform-project-484318"
+gcp_region1   = "us-central1"
+machine_type  = "e2-micro"
+ip_cidr       = "10.128.0.0/20"
+machine_name  = "tech-instance"
